@@ -7,7 +7,6 @@ https://github.com/danielmiessler/SecLists
 <details>
 <summary>워드리스트 트리 보기</summary>
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-```
 .
 ├── CONTRIBUTING.md
 ├── CONTRIBUTORS.md
@@ -5512,9 +5511,8 @@ https://github.com/danielmiessler/SecLists
             ├── php-reverse-shell.php
             ├── proxy.php
             └── shell.php
-
+    
 103 directories, 5401 files
-```
 </details>
 
 ## Bo0oM/fuzz.txt
