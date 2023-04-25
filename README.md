@@ -211,3 +211,79 @@
     ├── ws-dirs.txt
     └── ws-files.txt
 ```
+
+## payloadbox/directory-payload-list
+[https://github.com/payloadbox/directory-payload-list](https://github.com/payloadbox/directory-payload-list)
+```
+.
+├── Intruder
+│   ├── default
+│   │   ├── big-1.txt
+│   │   ├── big.txt
+│   │   ├── common.txt
+│   │   ├── directory-list-1.0.txt
+│   │   ├── directory-list-2.3-medium.txt
+│   │   ├── directory-list-2.3-small.txt
+│   │   ├── directory-list-lowercase-2.3-medium.txt
+│   │   ├── directory-list-lowercase-2.3-small.txt
+│   │   └── small.txt
+│   ├── drupal
+│   │   ├── drupal_plugins.fuzz.txt
+│   │   └── drupal_themes.fuzz.txt
+│   ├── joomla
+│   │   ├── joomla.txt
+│   │   ├── joomla_plugins.fuzz.txt
+│   │   └── joomla_themes.fuzz.txt
+│   ├── sap
+│   │   ├── sap.fuzz.txt
+│   │   ├── sap.txt
+│   │   ├── sap_common.txt
+│   │   ├── sap_default.txt
+│   │   └── sap_icm_paths.txt
+│   ├── sharepoint
+│   │   ├── sharepoint-1.txt
+│   │   ├── sharepoint-2.txt
+│   │   └── sharepoint.fuzz.txt
+│   ├── tomcat
+│   │   ├── apachetomcat.fuzz.txt
+│   │   ├── tomcat-1.txt
+│   │   └── tomcat-2.txt
+│   ├── weblogic
+│   │   ├── weblogic-1.txt
+│   │   ├── weblogic-2.txt
+│   │   └── weblogic.fuzz.txt
+│   ├── websphere
+│   │   ├── websphere-1.txt
+│   │   ├── websphere-2.txt
+│   │   └── websphere.fuzz.txt
+│   └── wordpress
+│       ├── wordpress.fuzz.txt
+│       └── wordpress_detector.txt
+├── LICENSE
+├── README.md
+└── img
+    └── directory-image.jpg
+```
+
+# danTaler/WordLists
+[https://github.com/danTaler/WordLists](https://github.com/danTaler/WordLists)
+```
+.
+├── Directories_Large.wordlist
+├── Directories_small.txt
+├── Extensions.txt
+├── Filenames_Doted_All.wordlist
+├── Filenames_PHP_All.wordlist
+├── Filenames_or_Directories_All.wordlist
+├── Folders_Files
+├── OWA-Attack.txt
+├── Password_10k_common.txt
+├── README.md
+├── Subdomain.txt
+├── Usernames_uniq_lower.txt
+├── Wordlists2011
+│   ├── Filenames_Doted_All.wordlist
+│   ├── Filenames_PHP_All.wordlist
+│   └── Filenames_or_Directories_All.wordlist
+└── a-z_3characters
+```
