@@ -112,4 +112,102 @@
 
 ## Bo0oM/fuzz.txt
 [https://github.com/Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
+```
+.
+├── README.md
+├── extensions.txt
+└── fuzz.txt
+```
 
+## 0xPugazh/fuzz4bounty
+[https://github.com/0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty)
+```
+.
+├── DNS wordlists
+│   └── permutations.txt
+├── README.md
+├── aem.txt
+├── apache.txt
+├── api.txt
+├── cgi.txt
+├── conf.txt
+├── config.txt
+├── dot_files.txt
+├── drupal.txt
+├── fuzz4bounty
+│   ├── dirsearch.txt
+│   ├── fuzz
+│   ├── fuzz.txt
+│   └── fuzz4bounty.txt
+├── iis.txt
+├── jira.txt
+├── nginx.txt
+├── phpunit.txt
+├── robots.txt
+├── tomcat.txt
+├── weblogic.txt
+└── wordpress.txt
+```
+
+## xmendez/wfuzz/wordlist
+[https://github.com/xmendez/wfuzz/tree/master/wordlist](https://github.com/xmendez/wfuzz/tree/master/wordlist)
+```
+.
+├── Injections
+│   ├── All_attack.txt
+│   ├── SQL.txt
+│   ├── Traversal.txt
+│   ├── XML.txt
+│   ├── XSS.txt
+│   └── bad_chars.txt
+├── general
+│   ├── admin-panels.txt
+│   ├── big.txt
+│   ├── catala.txt
+│   ├── common.txt
+│   ├── euskera.txt
+│   ├── extensions_common.txt
+│   ├── http_methods.txt
+│   ├── medium.txt
+│   ├── megabeast.txt
+│   ├── mutations_common.txt
+│   ├── spanish.txt
+│   └── test.txt
+├── others
+│   ├── common_pass.txt
+│   └── names.txt
+├── stress
+│   ├── alphanum_case.txt
+│   ├── alphanum_case_extra.txt
+│   ├── char.txt
+│   ├── doble_uri_hex.txt
+│   ├── test_ext.txt
+│   └── uri_hex.txt
+├── vulns
+│   ├── apache.txt
+│   ├── cgis.txt
+│   ├── coldfusion.txt
+│   ├── dirTraversal-nix.txt
+│   ├── dirTraversal-win.txt
+│   ├── dirTraversal.txt
+│   ├── domino.txt
+│   ├── fatwire.txt
+│   ├── fatwire_pagenames.txt
+│   ├── frontpage.txt
+│   ├── iis.txt
+│   ├── iplanet.txt
+│   ├── jrun.txt
+│   ├── netware.txt
+│   ├── oracle9i.txt
+│   ├── sharepoint.txt
+│   ├── sql_inj.txt
+│   ├── sunas.txt
+│   ├── tests.txt
+│   ├── tomcat.txt
+│   ├── vignette.txt
+│   ├── weblogic.txt
+│   └── websphere.txt
+└── webservices
+    ├── ws-dirs.txt
+    └── ws-files.txt
+```
