@@ -1,9 +1,7 @@
 # WordList
 
 ## danielmiessler/SecList
-```
-https://github.com/danielmiessler/SecLists
-```
+[https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 ```
 .
 ├── Discovery
@@ -112,5 +110,6 @@ https://github.com/danielmiessler/SecLists
 103 directories
 ```
 
-
 ## Bo0oM/fuzz.txt
+[https://github.com/Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
+
